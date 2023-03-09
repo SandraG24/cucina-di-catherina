@@ -1,0 +1,65 @@
+.visually-hidden {
+  position: absolute;
+  top: -150%;
+  z-index: -100;
+  width: 0;
+  height: 0;
+  opacity: 0;
+  visibility: hidden;
+  user-select: none;
+  pointer-events: none;
+  cursor: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  border: none;
+  outline: none;
+  white-space: nowrap;
+}
+.list {
+  list-style: none;
+}
+/*
+  font-family: 'Inter', sans-serif;
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Roboto', sans-serif;
+*/
+body {
+  background: #100f0f;
+  font-family: 'Montserrat', sans-serif;
+  font-style: normal;
+}
+.container {
+}
+.sause-container {
+}
+.sauses {
+}
+.sause-link {
+}
+.sause-image {
+}
+.sause-title {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 600;
+  font-size: 32px;
+  line-height: 1, 2;
+  color: #f3f3f3;
+}
+.sause-text {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1, 3;
+  color: #f3f3f3;
+}
+.sause-button {
+}
+.video-container {
+}
+.videos {
+}
+.video-link {
+}
+.video-title {
+}
